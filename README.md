@@ -1,5 +1,5 @@
 
-#List Of Config (ที่เซ็ตการตั้วงค่าต่างๆ)
+List Of Config (ที่เซ็ตการตั้วงค่าต่างๆ)
 - Folder Data Source
 - Embedding Model
 - Num of Retriever
@@ -9,8 +9,7 @@
 - Chunk Size
 - Chunk Overlap
 
-#List Of Argument Parser
+List Of Argument Parser
 - data_source_to_chroma
-    - translate คือ เพิ่ม argument นี้ตอน run ก็คือแปลข้อมูลทั้งหมดเป็นภาษาอังกฤษ เช่น  
-        run data_source_to_chroma.py --translate
+แปลข้อมูลทั้งหมดเป็นภาษาอังกฤษ python data_source_to_chroma.py --translate
 
