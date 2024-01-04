@@ -1,5 +1,5 @@
 
-List Of Config (ที่เซ็ตการตั้วงค่าต่างๆ)
+List Of Config
 - Folder Data Source
 - Embedding Model
 - Num of Retriever
