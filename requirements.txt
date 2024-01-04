@@ -1,0 +1,26 @@
+kaleido
+cohere
+openai==0.28
+tiktoken
+typing-extensions == 4.5.0
+unstructured[all-docs]
+langchain
+PyPDF2
+faiss-cpu
+safetensors
+huggingface-hub
+InstructorEmbedding
+sentence-transformers
+torch
+transformers
+ctransformers
+chromadb
+unstructured
+pdf2image
+pdfminer.six
+pypdf
+python-docx
+chromadb
+Flask
+flask_cors
+googletrans==3.1.0a0

@@ -1,0 +1,8 @@
+- Hybride Search
+- Graph Data
+- Table Data
+- Multivector Retriever 
+- Ensamble Retriever 
+- ICE Improvement 
+- Self Query
+- Semistructure Query

@@ -1,0 +1,11 @@
+DATA_SOURCE = '/data/'
+EMBEDDING_MODEL = 'sentence-transformers/all-MiniLM-L6-v2'
+CHROMA_PATH = '/chroma/'
+OPENAI_API_TYPE = "azure"
+OPENAI_API_VERSION = "2023-05-15"
+OPENAI_API_BASE = "https://bt-gpt4-preview.openai.azure.com/"
+OPENAI_API_KEY = "13b7ce595bf5497ba23628f1ec5e287c"
+NUM_RETRIEVER = 2
+TRANSLATE_ANSWER = True
+CHUNK_SIZE = 1500
+CHUNK_OVERLAP = 200
